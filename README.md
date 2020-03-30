@@ -12,4 +12,4 @@ This is a Product Development Structure for google pay Expense Manager feature
 
 # Wireframes:
 
-![Home Screen](./Mockups%20Final-page-001.jpg)
+![Home Screen](./Mocks%20Images.png)
